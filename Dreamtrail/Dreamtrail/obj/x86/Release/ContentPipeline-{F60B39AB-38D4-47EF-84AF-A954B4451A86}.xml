@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Georgia_16.spritefont</Source>
+      <Name>Fonts\Georgia_16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Fonts\Georgia_16.xnb</Output>
+      <Time>2016-05-22T16:51:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\menu_bg1.png</Source>
+      <Name>Resources\menu_bg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\menu_bg1.xnb</Output>
+      <Time>2016-05-22T18:40:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\titlu.png</Source>
+      <Name>Resources\titlu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\titlu.xnb</Output>
+      <Time>2016-05-22T20:18:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\bg.png</Source>
+      <Name>Resources\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\bg.xnb</Output>
+      <Time>2016-05-23T00:14:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sprite1.png</Source>
+      <Name>Resources\sprite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite1.xnb</Output>
+      <Time>2016-05-23T15:17:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sprite2.png</Source>
+      <Name>Resources\sprite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite2.xnb</Output>
+      <Time>2016-05-23T15:17:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\gameover.png</Source>
+      <Name>Resources\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\gameover.xnb</Output>
+      <Time>2016-05-29T14:08:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\box.png</Source>
+      <Name>Resources\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\box.xnb</Output>
+      <Time>2016-06-01T21:42:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\howtoplay.png</Source>
+      <Name>Resources\howtoplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\howtoplay.xnb</Output>
+      <Time>2016-06-01T22:53:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\star.png</Source>
+      <Name>Resources\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\star.xnb</Output>
+      <Time>2016-06-02T08:15:58+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F60B39AB-38D4-47EF-84AF-A954B4451A86}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\DreamtrailContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-04-12T22:55:55.3476143+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

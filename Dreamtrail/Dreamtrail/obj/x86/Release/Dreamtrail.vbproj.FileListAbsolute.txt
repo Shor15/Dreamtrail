@@ -1,0 +1,63 @@
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Fonts\Georgia_16.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\menu_bg1.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\titlu.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\bg.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite1.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite2.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\box.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\gameover.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.exe.manifest
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.application
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.exe
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.pdb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.xml
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.exe.manifest
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.application
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.exe
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.xml
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.pdb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\howtoplay.xnb
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\star.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Fonts\Georgia_16.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\menu_bg1.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\titlu.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\bg.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite1.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite2.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\gameover.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\box.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\howtoplay.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\star.xnb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.exe.manifest
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.application
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.exe
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.pdb
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.xml
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.exe.manifest
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.application
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.exe
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.xml
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.pdb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Fonts\Georgia_16.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\menu_bg1.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\titlu.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\bg.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite1.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\sprite2.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\gameover.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\box.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\howtoplay.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Content\Resources\star.xnb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.exe.manifest
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.application
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.exe
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.pdb
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\bin\x86\Release\Dreamtrail.xml
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.exe.manifest
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.application
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.exe
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.xml
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\Dreamtrail\obj\x86\Release\Dreamtrail.pdb

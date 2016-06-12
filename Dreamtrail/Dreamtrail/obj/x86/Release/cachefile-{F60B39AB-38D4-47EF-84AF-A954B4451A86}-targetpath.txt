@@ -1,0 +1,10 @@
+Content\Fonts\Georgia_16.xnb
+Content\Resources\menu_bg1.xnb
+Content\Resources\titlu.xnb
+Content\Resources\bg.xnb
+Content\Resources\sprite1.xnb
+Content\Resources\sprite2.xnb
+Content\Resources\gameover.xnb
+Content\Resources\box.xnb
+Content\Resources\howtoplay.xnb
+Content\Resources\star.xnb

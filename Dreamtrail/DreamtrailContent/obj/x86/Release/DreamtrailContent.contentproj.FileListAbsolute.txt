@@ -1,0 +1,3 @@
+E:\Dreamtrail2\Dreamtrail2\Dreamtrail\Dreamtrail\DreamtrailContent\obj\x86\Release\DreamtrailContent.contentprojResolveAssemblyReference.cache
+D:\Proiect Trufan Andreea - 3121a\Dreamtrail - Click and run\Dreamtrail\Dreamtrail\DreamtrailContent\obj\x86\Release\DreamtrailContent.contentprojResolveAssemblyReference.cache
+E:\Trufan Andreea - Proiect PAG\Dreamtrail\Dreamtrail\DreamtrailContent\obj\x86\Release\DreamtrailContent.contentprojResolveAssemblyReference.cache
